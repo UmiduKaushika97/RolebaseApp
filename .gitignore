@@ -1,0 +1,10 @@
+echo "node_modules/
+.env
+serviceAccountKey.json
+dist/
+build/
+logs
+*.log
+.vscode/
+.DS_Store
+" > .gitignore
